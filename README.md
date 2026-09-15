@@ -32,10 +32,10 @@ The point is not a longer bio. It is showing what a type allows, and what it ref
 ## Sample output
 ```
 === About me ===
-Name: Sam Rivera
-Age: 19
-Credits: 13
-GPA: 3.8
+Name: Herberth Sanchez-Gomez
+Age: 24
+Credits: 15
+GPA: 3.2
 Year: 2026
 
 Sam Rivera is 19, taking 13 credits in 2026, with a 3.8 GPA.
